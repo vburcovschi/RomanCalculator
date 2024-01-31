@@ -25,9 +25,9 @@
 ## Пример работы программы:
 a. Input:
     1 + 2
-
    Output:
     3
+
 
 b. Input:
 VI / III
