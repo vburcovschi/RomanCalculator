@@ -30,7 +30,7 @@ a. ***Input:*** `1 + 2`
 b. ***Input:*** `VI / III`
    ***Output:*** `II`
 
-c. ***Input:*** `1 - 2`
+c. ***Input:*** `I - II`
    ***Output:*** `throws Exception //т.к. в римской системе нет отрицательных чисел`
 
 d. ***Input:*** `I + 1`
